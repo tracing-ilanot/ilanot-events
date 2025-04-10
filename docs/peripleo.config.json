@@ -15,5 +15,5 @@
 	  { "name": "event", "path": ["relations", "label"] },
 	  { "name": "date", "path": ["relations", "when"] },
 	  "type"
-	],
+	]
 }
