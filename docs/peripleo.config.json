@@ -1,6 +1,6 @@
 {
   "initial_bounds": [20, -114, 66, 58],
-  "map_style": "./map-style-OSM.json",
+  "map_style": "https://api.maptiler.com/maps/outdoor/style.json?key=cqqmcLw28krG9Fl7V3kg",
   "disableMyLocation": true,
   "data": [
     {
