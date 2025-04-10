@@ -5305,7 +5305,7 @@
       "uuid": "http://www.geonames.org/2921044/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Ashkenaz",
          "country": "Germany"
       },
       "geometry": {
@@ -5651,7 +5651,7 @@
       "uuid": "http://www.geonames.org/3175395/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Italy",
          "country": "Italy"
       },
       "geometry": {
@@ -6301,7 +6301,7 @@
       "uuid": "http://www.geonames.org/6269133/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Middle East",
          "country": "Middle East"
       },
       "geometry": {
@@ -6423,7 +6423,7 @@
       "uuid": "http://www.geonames.org/99237/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Iraq",
          "country": "Iraq"
       },
       "geometry": {
@@ -6449,7 +6449,7 @@
       "uuid": "http://www.geonames.org/2510769/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Spain",
          "country": "Spain"
       },
       "geometry": {
@@ -6595,7 +6595,7 @@
       "uuid": "http://www.geonames.org/745044/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Byzantium",
          "country": "Byzantium"
       },
       "geometry": {
@@ -6653,7 +6653,7 @@
       "uuid": "http://www.geonames.org/place-048/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "North Africa",
          "country": "North Africa"
       },
       "geometry": {
@@ -6783,7 +6783,7 @@
       "uuid": "http://www.geonames.org/6269131/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "England",
          "country": "England"
       },
       "geometry": {
@@ -6802,7 +6802,7 @@
       "uuid": "http://www.geonames.org/place-050/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Morocco",
          "country": "Morocco"
       },
       "geometry": {
@@ -6847,7 +6847,7 @@
       "uuid": "http://www.geonames.org/69543/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Yemen",
          "country": "Yemen"
       },
       "geometry": {
@@ -6873,7 +6873,7 @@
       "uuid": "http://www.geonames.org/294640/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Israel",
          "country": "Land of Israel"
       },
       "geometry": {
@@ -6915,7 +6915,7 @@
       "uuid": "http://www.geonames.org/126585/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Kurdistan",
          "country": "Kurdistan"
       },
       "geometry": {
@@ -6941,7 +6941,7 @@
       "uuid": "http://www.geonames.org/390903/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Greece",
          "country": "Greece"
       },
       "geometry": {
@@ -6993,7 +6993,7 @@
       "uuid": "http://www.geonames.org/2750405/",
       "type": "Feature",
       "properties": {
-         "title": "",
+         "title": "Netherlands",
          "country": "Netherlands"
       },
       "geometry": {
