@@ -12,7 +12,7 @@
   ],
 	"facets": [
 	  { "name": "actor", "path": ["links", "actor"] },
-	  { "name": "event", "path": ["links", "eventType"] }
+	  { "name": "event", "path": ["links", "eventType"] },
 	  { "name": "date", "path": ["links", "date"] }
 	],
 	"link_icons": [
