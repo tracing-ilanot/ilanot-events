@@ -1,7 +1,6 @@
 {
-    "$schema": "file:/Users/maxdemoliere/Library/Mobile%20Documents/com%7Eapple%7ECloudDocs/Ilanot%20Project/Ilanot%20Data/LP.json",
   "type": "FeatureCollection",
-  "@context": "tracing-ilanot-places.jsonld",
+  "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
   "features": [
     {
       "@id": "2759794",
