@@ -65,10 +65,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/552-99",
-            "content": "The most recent known holder of this ilan is the Ets Haim – Livraria
-                Montezinos, Amsterdam.",
-            "actor": ["Ets Haim – Livraria
-                Montezinos"],
+            "content": "The most recent known holder of this ilan is the Ets Haim – Livraria Montezinos, Amsterdam.",
+            "actor": ["Ets Haim – Livraria Montezinos"],
             "when": []
          },
          {
@@ -685,10 +683,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/413-99",
-            "content": "The most recent known holder of this ilan is the Universitätsbibliothek Johann
-                Christian Senckenberg, Frankfurt am Main.",
-            "actor": ["Universitätsbibliothek Johann
-                Christian Senckenberg"],
+            "content": "The most recent known holder of this ilan is the Universitätsbibliothek Johann Christian Senckenberg, Frankfurt am Main.",
+            "actor": ["Universitätsbibliothek Johann Christian Senckenberg"],
             "when": []
          }
       ]
@@ -2378,10 +2374,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/483-99",
-            "content": "The most recent known holder of this ilan is the Manfred and Anne Lehmann
-                Collection, New York.",
-            "actor": ["Manfred and Anne Lehmann
-                Collection"],
+            "content": "The most recent known holder of this ilan is the Manfred and Anne Lehmann Collection, New York.",
+            "actor": ["Manfred and Anne Lehmann Collection"],
             "when": []
          },
          {
@@ -2721,10 +2715,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/472-99",
-            "content": "The most recent known holder of this ilan is the Beth Din and Beth Hamidrash
-                Library, London.",
-            "actor": ["Beth Din and Beth Hamidrash
-                Library"],
+            "content": "The most recent known holder of this ilan is the Beth Din and Beth Hamidrash Library, London.",
+            "actor": ["Beth Din and Beth Hamidrash Library"],
             "when": []
          },
          {
@@ -2898,10 +2890,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/484-99",
-            "content": "The most recent known holder of this ilan is the Biblioteca Teresiana, Biblioteca
-                Comunità Ebraica di Mantova, Mantua.",
-            "actor": ["Biblioteca Teresiana, Biblioteca
-                Comunità Ebraica di Mantova"],
+            "content": "The most recent known holder of this ilan is the Biblioteca Teresiana, Biblioteca Comunità Ebraica di Mantova, Mantua.",
+            "actor": ["Biblioteca Teresiana, Biblioteca Comunità Ebraica di Mantova"],
             "when": []
          },
          {
@@ -2924,10 +2914,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/502-99",
-            "content": "The most recent known holder of this ilan is the Biblioteca Teresiana, Biblioteca
-                Comunità Ebraica di Mantova, Mantua.",
-            "actor": ["Biblioteca Teresiana, Biblioteca
-                Comunità Ebraica di Mantova"],
+            "content": "The most recent known holder of this ilan is the Biblioteca Teresiana, Biblioteca Comunità Ebraica di Mantova, Mantua.",
+            "actor": ["Biblioteca Teresiana, Biblioteca Comunità Ebraica di Mantova"],
             "when": []
          },
          {
@@ -2942,10 +2930,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/466-99",
-            "content": "The most recent known holder of this ilan is the Biblioteca Teresiana, Biblioteca
-                Comunità Ebraica di Mantova, Mantua.",
-            "actor": ["Biblioteca Teresiana, Biblioteca
-                Comunità Ebraica di Mantova"],
+            "content": "The most recent known holder of this ilan is the Biblioteca Teresiana, Biblioteca Comunità Ebraica di Mantova, Mantua.",
+            "actor": ["Biblioteca Teresiana, Biblioteca Comunità Ebraica di Mantova"],
             "when": []
          },
          {
@@ -2960,10 +2946,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/485-99",
-            "content": "The most recent known holder of this ilan is the Biblioteca Teresiana, Biblioteca
-                Comunità Ebraica di Mantova, Mantua.",
-            "actor": ["Biblioteca Teresiana, Biblioteca
-                Comunità Ebraica di Mantova"],
+            "content": "The most recent known holder of this ilan is the Biblioteca Teresiana, Biblioteca Comunità Ebraica di Mantova, Mantua.",
+            "actor": ["Biblioteca Teresiana, Biblioteca Comunità Ebraica di Mantova"],
             "when": []
          },
          {
@@ -4492,10 +4476,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/474-99",
-            "content": "The most recent known holder of this ilan is the Židovské Muzeum v Praze (Jewish
-                Museum), Prague.",
-            "actor": ["Židovské Muzeum v Praze (Jewish
-                Museum)"],
+            "content": "The most recent known holder of this ilan is the Židovské Muzeum v Praze (Jewish Museum), Prague.",
+            "actor": ["Židovské Muzeum v Praze (Jewish Museum)"],
             "when": []
          },
          {
@@ -4858,20 +4840,16 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/324-99",
-            "content": "The most recent known holder of this ilan is the Institute of Oriental Manuscripts of the Russian Academy of
-                Sciences, St. Petersburg.",
-            "actor": ["Institute of Oriental Manuscripts of the Russian Academy of
-                Sciences"],
+            "content": "The most recent known holder of this ilan is the Institute of Oriental Manuscripts of the Russian Academy of Sciences, St. Petersburg.",
+            "actor": ["Institute of Oriental Manuscripts of the Russian Academy of Sciences"],
             "when": []
          },
          {
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/323-99",
-            "content": "The most recent known holder of this ilan is the Institute of Oriental Manuscripts of the Russian Academy of
-                Sciences, St. Petersburg.",
-            "actor": ["Institute of Oriental Manuscripts of the Russian Academy of
-                Sciences"],
+            "content": "The most recent known holder of this ilan is the Institute of Oriental Manuscripts of the Russian Academy of Sciences, St. Petersburg.",
+            "actor": ["Institute of Oriental Manuscripts of the Russian Academy of Sciences"],
             "when": []
          }
       ]
@@ -4923,10 +4901,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/469-99",
-            "content": "The most recent known holder of this ilan is the The Gross Family Collection
-                Trust, Tel Aviv.",
-            "actor": ["The Gross Family Collection
-                Trust"],
+            "content": "The most recent known holder of this ilan is the The Gross Family Collection Trust, Tel Aviv.",
+            "actor": ["The Gross Family Collection Trust"],
             "when": []
          },
          {
@@ -5061,10 +5037,8 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/470-99",
-            "content": "The most recent known holder of this ilan is the The Gross Family Collection
-                Trust, Tel Aviv.",
-            "actor": ["The Gross Family Collection
-                Trust"],
+            "content": "The most recent known holder of this ilan is the The Gross Family Collection Trust, Tel Aviv.",
+            "actor": ["The Gross Family Collection Trust"],
             "when": []
          }
       ]
@@ -5382,20 +5356,16 @@
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/467-99",
-            "content": "The most recent known holder of this ilan is the Żydowski Instytut
-                Historyczny, Warsaw.",
-            "actor": ["Żydowski Instytut
-                Historyczny"],
+            "content": "The most recent known holder of this ilan is the Żydowski Instytut Historyczny, Warsaw.",
+            "actor": ["Żydowski Instytut Historyczny"],
             "when": []
          },
          {
             "relationType": "last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/468-99",
-            "content": "The most recent known holder of this ilan is the Żydowski Instytut
-                Historyczny, Warsaw.",
-            "actor": ["Żydowski Instytut
-                Historyczny"],
+            "content": "The most recent known holder of this ilan is the Żydowski Instytut Historyczny, Warsaw.",
+            "actor": ["Żydowski Instytut Historyczny"],
             "when": []
          },
          {
@@ -6816,139 +6786,6 @@
             "content": "The ilan was created in the 15th century in Byzantium.",
             "actor": [],
             "when": ["15th Century"]
-         }
-      ]
-    },
-    {
-      "@id": "",
-      "uuid": "http://www.geonames.org//",
-      "type": "Feature",
-      "properties": {
-         "title": "",
-         "country": "North Africa"
-      },
-      "geometry": {
-         "type": "Point",
-         "coordinates": [, ]
-      },
-      "names": [
-         { "toponym": "", "lang": "en" }
-      ],
-      "links": [
-         { "type": "closeMatch", "identifier": "http://www.geonames.org//" }
-      ],
-      "relations": [
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/294-01",
-            "content": "The ilan was created in the 18th century in North Africa.",
-            "actor": [],
-            "when": ["18th Century", "19th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/230-01",
-            "content": "The ilan was created in the 15th century in North Africa.",
-            "actor": [],
-            "when": ["15th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/314-01",
-            "content": "The ilan was created in the 18th century in North Africa.",
-            "actor": [],
-            "when": ["18th Century", "19th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/565-01",
-            "content": "The ilan was created in the 16th century in North Africa.",
-            "actor": [],
-            "when": ["16th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/514-01",
-            "content": "The ilan was created in the 17th century in North Africa.",
-            "actor": [],
-            "when": ["17th Century", "18th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/224-01",
-            "content": "The ilan was created in the 18th century in North Africa.",
-            "actor": [],
-            "when": ["18th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/454-01",
-            "content": "The ilan was created in the 18th century in North Africa.",
-            "actor": [],
-            "when": ["18th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/513-01",
-            "content": "The ilan was created in the 19th century in North Africa.",
-            "actor": [],
-            "when": ["19th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/171-01",
-            "content": "The ilan was created in the 18th century in North Africa.",
-            "actor": [],
-            "when": ["18th Century", "19th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/476-01",
-            "content": "The ilan was created in the 20th century in North Africa.",
-            "actor": [],
-            "when": ["20th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/225-01",
-            "content": "The ilan was created in the 18th century in North Africa.",
-            "actor": [],
-            "when": ["18th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/566-01",
-            "content": "The ilan was created in the 17th century in North Africa.",
-            "actor": [],
-            "when": ["17th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/466-01",
-            "content": "The ilan was created in the 16th century in North Africa.",
-            "actor": [],
-            "when": ["16th Century"]
-         },
-         {
-            "relationType": "manuscript-production",
-            "label": "Manuscript Production",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/138-01",
-            "content": "The ilan was created in the 18th century in North Africa.",
-            "actor": [],
-            "when": ["18th Century", "19th Century"]
          }
       ]
     },
