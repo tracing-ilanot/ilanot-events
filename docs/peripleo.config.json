@@ -10,7 +10,10 @@
       "attribution": "Tracing Ilanot © <a href=\"https://britishlibrary.github.io/locating-a-national-collection/\" target=\"_blank\">Mapping Sefirotic Trees through the Ages</a>"
     }
   ],
-  "facets": [
-    "type"
-  ]
+	"facets": [
+	  { "name": "actor", "path": ["relations", "actor"] },
+	  { "name": "event", "path": ["relations", "label"] },
+	  { "name": "date", "path": ["relations", "when"] },
+	  "type"
+	],
 }
