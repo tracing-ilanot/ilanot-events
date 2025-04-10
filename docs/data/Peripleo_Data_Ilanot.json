@@ -65,10 +65,8 @@
             "relationType": "ilanot:last-known-owner",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/552-99.xml",
-            "title": "The most recent known holder of this ilan is the Ets Haim – Livraria
-                Montezinos, Amsterdam.",
-            "actor": "Ets Haim – Livraria
-                Montezinos",
+            "title": "The most recent known holder of this ilan is the Ets Haim – Livraria Montezinos, Amsterdam.",
+            "actor": "Ets Haim – Livraria Montezinos",
             "date": "21th Century"
          },
          {
