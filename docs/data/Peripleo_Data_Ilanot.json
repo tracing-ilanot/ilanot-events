@@ -1,4 +1,5 @@
 {
+    "$schema": "file:/Users/maxdemoliere/Library/Mobile%20Documents/com%7Eapple%7ECloudDocs/Ilanot%20Project/Ilanot%20Data/LP.json",
   "type": "FeatureCollection",
   "@context": "tracing-ilanot-places.jsonld",
   "features": [
@@ -26,7 +27,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/4-99",
             "content": "The most recent known holder of this ilan is the Ets Haim – Livraria Montezinos, Amsterdam.",
-            "actor": ["Ets Haim – Livraria Montezinos"],
+            "actor": "Ets Haim – Livraria Montezinos",
             "when": ["20th Century"]
          },
          {
@@ -34,7 +35,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/8-99",
             "content": "The most recent known holder of this ilan is the Ets Haim – Livraria Montezinos, Amsterdam.",
-            "actor": ["Ets Haim – Livraria Montezinos"],
+            "actor": "Ets Haim – Livraria Montezinos",
             "when": ["20th Century"]
          },
          {
@@ -42,7 +43,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/316-99",
             "content": "The most recent known holder of this ilan is the Bibliotheca Philosophica Hermetica, Amsterdam.",
-            "actor": ["Bibliotheca Philosophica Hermetica"],
+            "actor": "Bibliotheca Philosophica Hermetica",
             "when": ["20th Century"]
          },
          {
@@ -50,7 +51,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/6-99",
             "content": "The most recent known holder of this ilan is the Universiteitsbibliotheek, Bibliotheca Rosenthaliana, Amsterdam.",
-            "actor": ["Universiteitsbibliotheek, Bibliotheca Rosenthaliana"],
+            "actor": "Universiteitsbibliotheek, Bibliotheca Rosenthaliana",
             "when": ["20th Century"]
          },
          {
@@ -58,7 +59,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/3-99",
             "content": "The most recent known holder of this ilan is the Bibliotheca Philosophica Hermetica, Amsterdam.",
-            "actor": ["Bibliotheca Philosophica Hermetica"],
+            "actor": "Bibliotheca Philosophica Hermetica",
             "when": ["20th Century"]
          },
          {
@@ -66,7 +67,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/552-99",
             "content": "The most recent known holder of this ilan is the Ets Haim – Livraria Montezinos, Amsterdam.",
-            "actor": ["Ets Haim – Livraria Montezinos"],
+            "actor": "Ets Haim – Livraria Montezinos",
             "when": ["20th Century"]
          },
          {
@@ -74,7 +75,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/5-99",
             "content": "The most recent known holder of this ilan is the Ets Haim – Livraria Montezinos, Amsterdam.",
-            "actor": ["Ets Haim – Livraria Montezinos"],
+            "actor": "Ets Haim – Livraria Montezinos",
             "when": ["20th Century"]
          },
          {
@@ -82,7 +83,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/9-99",
             "content": "The most recent known holder of this ilan is the Universiteitsbibliotheek, Bibliotheca Rosenthaliana, Amsterdam.",
-            "actor": ["Universiteitsbibliotheek, Bibliotheca Rosenthaliana"],
+            "actor": "Universiteitsbibliotheek, Bibliotheca Rosenthaliana",
             "when": ["20th Century"]
          },
          {
@@ -90,7 +91,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/315-99",
             "content": "The most recent known holder of this ilan is the Bibliotheca Philosophica Hermetica, Amsterdam.",
-            "actor": ["Bibliotheca Philosophica Hermetica"],
+            "actor": "Bibliotheca Philosophica Hermetica",
             "when": ["20th Century"]
          }
       ]
@@ -119,7 +120,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/11-99",
             "content": "The most recent known holder of this ilan is the Staatsbibliothek zu Berlin, Berlin.",
-            "actor": ["Staatsbibliothek zu Berlin"],
+            "actor": "Staatsbibliothek zu Berlin",
             "when": ["20th Century"]
          },
          {
@@ -127,7 +128,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/13-99",
             "content": "The most recent known holder of this ilan is the Staatsbibliothek zu Berlin, Berlin.",
-            "actor": ["Staatsbibliothek zu Berlin"],
+            "actor": "Staatsbibliothek zu Berlin",
             "when": ["20th Century"]
          },
          {
@@ -135,7 +136,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/12-99",
             "content": "The most recent known holder of this ilan is the Staatsbibliothek zu Berlin, Berlin.",
-            "actor": ["Staatsbibliothek zu Berlin"],
+            "actor": "Staatsbibliothek zu Berlin",
             "when": ["20th Century"]
          }
       ]
@@ -164,7 +165,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/420-99",
             "content": "The most recent known holder of this ilan is the Joseph Eraki Ha-Kohen Collection, Bnei Brak.",
-            "actor": ["Joseph Eraki Ha-Kohen Collection"],
+            "actor": "Joseph Eraki Ha-Kohen Collection",
             "when": ["20th Century"]
          }
       ]
@@ -193,7 +194,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/21-99",
             "content": "The most recent known holder of this ilan is the Magyar Tudományos Akadémia, Budapest.",
-            "actor": ["Magyar Tudományos Akadémia"],
+            "actor": "Magyar Tudományos Akadémia",
             "when": ["20th Century"]
          },
          {
@@ -201,7 +202,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/17-99",
             "content": "The most recent known holder of this ilan is the Magyar Tudományos Akadémia, Budapest.",
-            "actor": ["Magyar Tudományos Akadémia"],
+            "actor": "Magyar Tudományos Akadémia",
             "when": ["20th Century"]
          },
          {
@@ -209,7 +210,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/15-99",
             "content": "The most recent known holder of this ilan is the Magyar Tudományos Akadémia, Budapest.",
-            "actor": ["Magyar Tudományos Akadémia"],
+            "actor": "Magyar Tudományos Akadémia",
             "when": ["20th Century"]
          },
          {
@@ -217,7 +218,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/19-99",
             "content": "The most recent known holder of this ilan is the Országos Rabbiképző, Budapest.",
-            "actor": ["Országos Rabbiképző"],
+            "actor": "Országos Rabbiképző",
             "when": ["20th Century"]
          },
          {
@@ -225,7 +226,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/16-99",
             "content": "The most recent known holder of this ilan is the Magyar Tudományos Akadémia, Budapest.",
-            "actor": ["Magyar Tudományos Akadémia"],
+            "actor": "Magyar Tudományos Akadémia",
             "when": ["20th Century"]
          },
          {
@@ -233,7 +234,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/20-99",
             "content": "The most recent known holder of this ilan is the Országos Rabbiképző, Budapest.",
-            "actor": ["Országos Rabbiképző"],
+            "actor": "Országos Rabbiképző",
             "when": ["20th Century"]
          },
          {
@@ -241,7 +242,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/14-99",
             "content": "The most recent known holder of this ilan is the Magyar Tudományos Akadémia, Budapest.",
-            "actor": ["Magyar Tudományos Akadémia"],
+            "actor": "Magyar Tudományos Akadémia",
             "when": ["20th Century"]
          },
          {
@@ -249,7 +250,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/18-99",
             "content": "The most recent known holder of this ilan is the Magyar Tudományos Akadémia, Budapest.",
-            "actor": ["Magyar Tudományos Akadémia"],
+            "actor": "Magyar Tudományos Akadémia",
             "when": ["20th Century"]
          }
       ]
@@ -278,7 +279,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/27-99",
             "content": "The most recent known holder of this ilan is the Harvard University, Cambridge, MA.",
-            "actor": ["Harvard University"],
+            "actor": "Harvard University",
             "when": ["20th Century"]
          },
          {
@@ -286,7 +287,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/29-99",
             "content": "The most recent known holder of this ilan is the Harvard University, Cambridge, MA.",
-            "actor": ["Harvard University"],
+            "actor": "Harvard University",
             "when": ["20th Century"]
          },
          {
@@ -294,7 +295,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/25-99",
             "content": "The most recent known holder of this ilan is the Harvard University, Cambridge, MA.",
-            "actor": ["Harvard University"],
+            "actor": "Harvard University",
             "when": ["20th Century"]
          },
          {
@@ -302,7 +303,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/30-99",
             "content": "The most recent known holder of this ilan is the Harvard University, Cambridge, MA.",
-            "actor": ["Harvard University"],
+            "actor": "Harvard University",
             "when": ["20th Century"]
          },
          {
@@ -310,7 +311,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/26-99",
             "content": "The most recent known holder of this ilan is the Harvard University, Cambridge, MA.",
-            "actor": ["Harvard University"],
+            "actor": "Harvard University",
             "when": ["20th Century"]
          },
          {
@@ -318,7 +319,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/28-99",
             "content": "The most recent known holder of this ilan is the Harvard University, Cambridge, MA.",
-            "actor": ["Harvard University"],
+            "actor": "Harvard University",
             "when": ["20th Century"]
          }
       ]
@@ -347,7 +348,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/31-99",
             "content": "The most recent known holder of this ilan is the Trinity College, Cambridge.",
-            "actor": ["Trinity College"],
+            "actor": "Trinity College",
             "when": ["20th Century"]
          },
          {
@@ -355,7 +356,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/23-99",
             "content": "The most recent known holder of this ilan is the Cambridge University Library, Cambridge.",
-            "actor": ["Cambridge University Library"],
+            "actor": "Cambridge University Library",
             "when": ["20th Century"]
          },
          {
@@ -363,7 +364,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/32-99",
             "content": "The most recent known holder of this ilan is the Trinity College, Cambridge.",
-            "actor": ["Trinity College"],
+            "actor": "Trinity College",
             "when": ["20th Century"]
          },
          {
@@ -371,7 +372,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/22-99",
             "content": "The most recent known holder of this ilan is the Cambridge University Library, Cambridge.",
-            "actor": ["Cambridge University Library"],
+            "actor": "Cambridge University Library",
             "when": ["20th Century"]
          },
          {
@@ -379,7 +380,7 @@
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/24-99",
             "content": "The most recent known holder of this ilan is the Cambridge University Library, Cambridge.",
-            "actor": ["Cambridge University Library"],
+            "actor": "Cambridge University Library",
             "when": ["20th Century"]
          }
       ]
