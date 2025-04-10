@@ -14,9 +14,22 @@
          "type": "Point",
          "coordinates": [4.9041, 52.3676]
       },
+      "descriptions": [
+                {
+                    "value": "University Library Basel",
+                    "source": "https://mr-mark16.sib.swiss/"
+                }
+            ],
       "names": [
          { "toponym": "Amsterdam", "lang": "en" }
       ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "sourceLabel": "academic libraries (institutions)",
+                    "label": "library"
+                }
+            ],
       "links": [
          { "type": "closeMatch", "identifier": "http://www.geonames.org/2759794/" }
       ],
@@ -116,9 +129,22 @@
          "type": "Point",
          "coordinates": [13.4050, 52.5200]
       },
+      "descriptions": [
+                {
+                    "value": "University Library Basel",
+                    "source": "https://mr-mark16.sib.swiss/"
+                }
+            ],
       "names": [
          { "toponym": "Berlin", "lang": "en" }
       ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "sourceLabel": "academic libraries (institutions)",
+                    "label": "library"
+                }
+            ],
       "links": [
          { "type": "closeMatch", "identifier": "http://www.geonames.org/6547383/" }
       ],
@@ -164,9 +190,22 @@
          "type": "Point",
          "coordinates": [34.8338, 32.0840]
       },
+      "descriptions": [
+                {
+                    "value": "University Library Basel",
+                    "source": "https://mr-mark16.sib.swiss/"
+                }
+            ],
       "names": [
          { "toponym": "Bnei Brak", "lang": "en" }
       ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "sourceLabel": "academic libraries (institutions)",
+                    "label": "library"
+                }
+            ],
       "links": [
          { "type": "closeMatch", "identifier": "http://www.geonames.org/295514/" }
       ],
@@ -194,9 +233,22 @@
          "type": "Point",
          "coordinates": [19.0402, 47.4979]
       },
+      "descriptions": [
+                {
+                    "value": "University Library Basel",
+                    "source": "https://mr-mark16.sib.swiss/"
+                }
+            ],
       "names": [
          { "toponym": "Budapest", "lang": "en" }
       ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "sourceLabel": "academic libraries (institutions)",
+                    "label": "library"
+                }
+            ],
       "links": [
          { "type": "closeMatch", "identifier": "http://www.geonames.org/3054643/" }
       ],
@@ -287,9 +339,22 @@
          "type": "Point",
          "coordinates": [-71.1097, 42.3736]
       },
+      "descriptions": [
+                {
+                    "value": "University Library Basel",
+                    "source": "https://mr-mark16.sib.swiss/"
+                }
+            ],
       "names": [
          { "toponym": "Cambridge, MA", "lang": "en" }
       ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "sourceLabel": "academic libraries (institutions)",
+                    "label": "library"
+                }
+            ],
       "links": [
          { "type": "closeMatch", "identifier": "http://www.geonames.org/4932004/" }
       ],
@@ -362,9 +427,22 @@
          "type": "Point",
          "coordinates": [0.1218, 52.2053]
       },
+      "descriptions": [
+                {
+                    "value": "University Library Basel",
+                    "source": "https://mr-mark16.sib.swiss/"
+                }
+            ],
       "names": [
          { "toponym": "Cambridge", "lang": "en" }
       ],
+            "types": [
+                {
+                    "identifier": "aat:300343392",
+                    "sourceLabel": "academic libraries (institutions)",
+                    "label": "library"
+                }
+            ],
       "links": [
          { "type": "closeMatch", "identifier": "http://www.geonames.org/2653941/" }
       ],
