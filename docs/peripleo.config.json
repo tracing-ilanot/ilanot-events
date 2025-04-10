@@ -11,7 +11,8 @@
     }
   ],
 	"facets": [
-	  { "name": "actor", "path": ["relations", "actor"] }
+	  { "name": "actor", "path": ["relations", "actor"] },
+	  { "name": "date", "path": ["relations", "date"] }
 	],
 	"link_icons": [
 	  { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
