@@ -13,7 +13,6 @@
 	"facets": [
 	  { "name": "actor", "path": ["relations", "actor"] },
 	  { "name": "event", "path": ["relations", "label"] },
-	  { "name": "date", "path": ["relations", "when"] },
-	  "type"
+	  { "name": "date", "path": ["relations", "when"] }
 	]
 }
