@@ -283,7 +283,7 @@
       },
       "geometry": {
          "type": "Point",
-         "coordinates": [, ]
+         "coordinates": [ -6.2546, 53.3438 ]
       },
       "names": [
          { "toponym": "Library of Trinity College – Dublin", "lang": "en" }
@@ -5011,7 +5011,7 @@
       },
       "geometry": {
          "type": "Point",
-         "coordinates": [, ]
+         "coordinates": [52.08, 4.31]
       },
       "names": [
          { "toponym": "National Library of the Netherlands – The Hague", "lang": "en" }
