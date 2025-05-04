@@ -8,7 +8,8 @@
       "type": "Feature",
       "properties": {
          "title": "Amsterdam",
-         "country": "Netherlands"
+         "country": "Netherlands",
+         "url": "http://localhost:8080/exist/apps/tracing.ilanot.org/place/place-001.xml"
       },
       "geometry": {
          "type": "Point",
@@ -25,9 +26,9 @@
             "relationType": "gvp:aat2208_locus-setting_for",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-236-99.xml",
+            "@id": "event-236-99",
             "title": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 475",
             "content": "The last known holder is the The Ritman Library – Bibliotheca Philosophica Hermetica, Amsterdam.",
-            "@id": "event-236-99",
             "actor": "The Ritman Library – Bibliotheca Philosophica Hermetica",
             "date": "20th Century"
          },
@@ -35,9 +36,9 @@
             "relationType": "gvp:aat2208_locus-setting_for",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-005-99.xml",
-            "title": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 B 9",
-            "content": "The last known holder is the Ets Haim – Livraria Montezinos, Amsterdam.",
             "@id": "event-005-99",
+            "title": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 B 9",
+            "content": "The last known holder is the Ets Haim – Livraria Montezinos.",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": "20th Century"
          },
@@ -45,9 +46,9 @@
             "relationType": "gvp:aat2208_locus-setting_for",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-235-99.xml",
-            "title": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 474",
-            "content": "The last known holder is the The Ritman Library – Bibliotheca Philosophica Hermetica, Amsterdam.",
             "@id": "event-235-99",
+            "title": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 474",
+            "content": "The last known holder is the The Ritman Library – Bibliotheca Philosophica Hermetica.",
             "actor": "The Ritman Library – Bibliotheca Philosophica Hermetica",
             "date": "20th Century"
          },
@@ -55,9 +56,9 @@
             "relationType": "gvp:aat2208_locus-setting_for",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-439-99.xml",
-            "title": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 D 4",
-            "content": "The last known holder is the Ets Haim – Livraria Montezinos, Amsterdam.",
             "@id": "event-439-99",
+            "title": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 D 4",
+            "content": "The last known holder is the Ets Haim – Livraria Montezinos.",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": "20th Century"
          },
@@ -65,9 +66,9 @@
             "relationType": "gvp:aat2208_locus-setting_for",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-004-99.xml",
-            "title": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 A 5",
-            "content": "The last known holder is the Ets Haim – Livraria Montezinos, Amsterdam.",
             "@id": "event-004-99",
+            "title": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 A 5",
+            "content": "The last known holder is the Ets Haim – Livraria Montezinos.",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": "20th Century"
          },
@@ -75,9 +76,9 @@
             "relationType": "gvp:aat2208_locus-setting_for",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-008-99.xml",
-            "title": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 E 53",
-            "content": "The last known holder is the Ets Haim – Livraria Montezinos, Amsterdam.",
             "@id": "event-008-99",
+            "title": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 E 53",
+            "content": "The last known holder is the Ets Haim – Livraria Montezinos.",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": "20th Century"
          },
@@ -85,9 +86,9 @@
             "relationType": "gvp:aat2208_locus-setting_for",
             "label": "Last Known Owner",
             "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-006-99.xml",
-            "title": "Amsterdam, Universiteitsbibliotheek – Bibliotheca Rosenthaliana, Ms. Pl-C-2",
-            "content": "The last known holder is the Universiteitsbibliotheek – Bibliotheca Rosenthaliana, Amsterdam.",
             "@id": "event-006-99",
+            "title": "Amsterdam, Universiteitsbibliotheek – Bibliotheca Rosenthaliana, Ms. Pl-C-2",
+            "content": "The last known holder is the Universiteitsbibliotheek – Bibliotheca Rosenthaliana.",
             "actor": "Universiteitsbibliotheek – Bibliotheca Rosenthaliana",
             "date": "20th Century"
          }
