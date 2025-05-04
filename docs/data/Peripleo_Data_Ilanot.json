@@ -8,6 +8,7 @@
       "type": "Feature",
       "properties": {
          "title": "Amsterdam",
+         "country": "Netherlands",
          "url": "http://localhost:8080/exist/apps/tracing.ilanot.org/place/place-001.xml"
       },
       "geometry": {
@@ -23,56 +24,56 @@
       "relations": [
          {
             "type": "gvp:aat2208_locus-setting_for",
-            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 475 – Last Known Owner – The Ritman Library – Bibliotheca Philosophica Hermetica",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-236-99.xml",
+            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 475 – Last Known Owner – The Ritman Library – Bibliotheca Philosophica Hermetica",
             "eventType": "Last Known Owner",
             "actor": "The Ritman Library – Bibliotheca Philosophica Hermetica",
             "date": "20th Century"
          },
          {
             "type": "gvp:aat2208_locus-setting_for",
-            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 B 9 – Last Known Owner – Ets Haim – Livraria Montezinos",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-005-99.xml",
+            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 B 9 – Last Known Owner – Ets Haim – Livraria Montezinos",
             "eventType": "Last Known Owner",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": "20th Century"
          },
          {
             "type": "gvp:aat2208_locus-setting_for",
-            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 474 – Last Known Owner – The Ritman Library – Bibliotheca Philosophica Hermetica",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-235-99.xml",
+            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 474 – Last Known Owner – The Ritman Library – Bibliotheca Philosophica Hermetica",
             "eventType": "Last Known Owner",
             "actor": "The Ritman Library – Bibliotheca Philosophica Hermetica",
             "date": "20th Century"
          },
          {
             "type": "gvp:aat2208_locus-setting_for",
-            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 D 4 – Last Known Owner – Ets Haim – Livraria Montezinos",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-439-99.xml",
+            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 D 4 – Last Known Owner – Ets Haim – Livraria Montezinos",
             "eventType": "Last Known Owner",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": "20th Century"
          },
          {
             "type": "gvp:aat2208_locus-setting_for",
-            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 A 5 – Last Known Owner – Ets Haim – Livraria Montezinos",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-004-99.xml",
+            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 A 5 – Last Known Owner – Ets Haim – Livraria Montezinos",
             "eventType": "Last Known Owner",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": "20th Century"
          },
          {
             "type": "gvp:aat2208_locus-setting_for",
-            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 E 53 – Last Known Owner – Ets Haim – Livraria Montezinos",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-008-99.xml",
+            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 E 53 – Last Known Owner – Ets Haim – Livraria Montezinos",
             "eventType": "Last Known Owner",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": "20th Century"
          },
          {
             "type": "gvp:aat2208_locus-setting_for",
-            "label": "Amsterdam, Universiteitsbibliotheek – Bibliotheca Rosenthaliana, Ms. Pl-C-2 – Last Known Owner – Universiteitsbibliotheek – Bibliotheca Rosenthaliana",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-006-99.xml",
+            "label": "Amsterdam, Universiteitsbibliotheek – Bibliotheca Rosenthaliana, Ms. Pl-C-2 – Last Known Owner – Universiteitsbibliotheek – Bibliotheca Rosenthaliana",
             "eventType": "Last Known Owner",
             "actor": "Universiteitsbibliotheek – Bibliotheca Rosenthaliana",
             "date": "20th Century"
