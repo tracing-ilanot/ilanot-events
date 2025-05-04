@@ -23,10 +23,10 @@
       ],
       "relations": [
          {
-            "relationType": "gvp:aat2208_locus-setting_for",
-            "label": "Last Known Owner",
-            "relationTo": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-236-99.xml",
-            "title": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 475",
+            "type": "gvp:aat2208_locus-setting_for",
+            "eventType": "Last Known Owner",
+            "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-236-99.xml",
+            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 475",
             "actor": "The Ritman Library – Bibliotheca Philosophica Hermetica",
             "date": "20th Century"
          },
