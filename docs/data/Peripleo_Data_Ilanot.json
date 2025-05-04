@@ -19,9 +19,6 @@
          { "toponym": "Amsterdam", "lang": "en" }
       ],
       "links": [
-         { "type": "closeMatch", "identifier": "http://www.geonames.org/2759794/" }
-      ],
-      "relations": [
          {
             "type": "gvp:aat2208_locus-setting_for",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-236-99.xml",
