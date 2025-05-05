@@ -22,7 +22,7 @@
          {
             "type": "gvp:aat2208_locus-setting_for",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-236-99.xml",
-            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 475 – Last Known Owner – The Ritman Library – Bibliotheca Philosophica Hermetica",
+            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 475 <br> Last Known Owner: The Ritman Library – Bibliotheca Philosophica Hermetica",
             "eventType": "Last Known Owner",
             "actor": "The Ritman Library – Bibliotheca Philosophica Hermetica",
             "date": ""
@@ -30,7 +30,7 @@
          {
             "type": "gvp:aat2208_locus-setting_for",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-005-99.xml",
-            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 B 9 – Last Known Owner – Ets Haim – Livraria Montezinos",
+            "label": "Amsterdam, Ets Haim – Livraria Montezinos, Ms. 47 B 9 <br> Last Known Owner: Ets Haim – Livraria Montezinos",
             "eventType": "Last Known Owner",
             "actor": "Ets Haim – Livraria Montezinos",
             "date": ""
@@ -38,7 +38,7 @@
          {
             "type": "gvp:aat2208_locus-setting_for",
             "identifier": "http://localhost:8080/exist/apps/tracing.ilanot.org/event/event-235-99.xml",
-            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 474 – Last Known Owner – The Ritman Library – Bibliotheca Philosophica Hermetica",
+            "label": "Amsterdam, The Ritman Library – Bibliotheca Philosophica Hermetica, Ms. M 474 <br> Last Known Owner: The Ritman Library – Bibliotheca Philosophica Hermetica",
             "eventType": "Last Known Owner",
             "actor": "The Ritman Library – Bibliotheca Philosophica Hermetica",
             "date": ""
